@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.image("logo.jpg")
 # Cấu hình giao diện trang web
 st.set_page_config(
     page_title="App Tính Lãi Tiết Kiệm",
