@@ -2,13 +2,13 @@ import streamlit as st
 st.image("logo.jpg")
 # Cấu hình giao diện trang web
 st.set_page_config(
-    page_title="CÔNG CỤ Tính Lãi Tiết Kiệm_TRẦN ĐÌNH MINH TRÍ",
+    page_title="Tính Lãi Tiết Kiệm",
     page_icon="💰",
     layout="centered"
 )
 
 # Tiêu đề ứng dụng
-st.title("💰 Ứng Dụng Tính Lãi Gửi Tiết Kiệm")
+st.title("💰 Công Cụ Tính Lãi Gửi Tiết Kiệm_Trần Đình Minh Trí")
 st.write("Nhập các thông tin dưới đây để tính toán số tiền lãi dự kiến.")
 
 # --- KHU VỰC NHẬP DỮ LIỆU ---
